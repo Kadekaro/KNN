@@ -46,4 +46,3 @@ O KNN é uma ferramenta poderosa que pode ser facilmente compreendida e implemen
 
 **Fontes**:
 - [Scikit-Learn - Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
-- [Kaggle - Pima Indians
